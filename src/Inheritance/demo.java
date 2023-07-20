@@ -9,7 +9,7 @@ public class demo
 	{
 		
 		demo d=new demo();
-		d.
+		//d.
 		
 	}
 

@@ -6,7 +6,7 @@ public class EmpInfo
 	{
 		
 		Emp e1=new Emp();
-		e1.e
+		
 		
 		
 	}
